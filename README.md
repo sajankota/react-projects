@@ -1,4 +1,3 @@
-```markdown
 # 🚀 React Projects Showcase
 
 A **React + TypeScript** learning playground that showcases small-to-mid size projects — each focusing on a specific React concept such as state management, component communication, hooks, side effects, and routing.
@@ -34,6 +33,7 @@ The goal: build and understand each React concept through practical, bite-sized 
 ---
 
 ## 📂 Folder Structure
+
 ```
 
 src/
@@ -52,7 +52,7 @@ src/
 │ └── ...other-projects/
 └── index.css # Tailwind entry point
 
-````
+```
 
 ---
 
@@ -63,7 +63,7 @@ src/
 ```bash
 git clone https://github.com/yourusername/react-projects-showcase.git
 cd react-projects-showcase
-````
+```
 
 ### 2️⃣ Install Dependencies
 
