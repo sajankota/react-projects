@@ -167,7 +167,3 @@ Focused on React, Node.js, and modern web development.
 ## 📜 License
 
 This project is open-source under the **MIT License**.
-
-```
-
-```
