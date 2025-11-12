@@ -79,7 +79,7 @@ yarn install
 npm run dev
 ```
 
-This starts the app on [http://localhost:5173](http://localhost:5173).
+This starts the app on [http://localhost:5173](http://localhost:5173)
 
 ---
 
