@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🚀 React Projects Showcase
 
@@ -36,7 +34,6 @@ The goal: build and understand each React concept through practical, bite-sized 
 ---
 
 ## 📂 Folder Structure
-
 ```
 
 src/
@@ -55,7 +52,7 @@ src/
 │ └── ...other-projects/
 └── index.css # Tailwind entry point
 
-```
+````
 
 ---
 
@@ -66,7 +63,7 @@ src/
 ```bash
 git clone https://github.com/yourusername/react-projects-showcase.git
 cd react-projects-showcase
-```
+````
 
 ### 2️⃣ Install Dependencies
 
@@ -171,10 +168,6 @@ Focused on React, Node.js, and modern web development.
 
 This project is open-source under the **MIT License**.
 
----
-
 ```
 
-Would you like me to include a **“Contributing” section** (for how to add new projects easily) at the bottom?
-That’d make it easier to scale the project later when you add more demos.
 ```
