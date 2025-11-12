@@ -61,8 +61,8 @@ src/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/react-projects-showcase.git
-cd react-projects-showcase
+git clone https://github.com/sajankota/react-projects.git
+cd react-projects
 ```
 
 ### 2️⃣ Install Dependencies
@@ -70,7 +70,7 @@ cd react-projects-showcase
 ```bash
 npm install
 # or
-yarn
+yarn install
 ```
 
 ### 3️⃣ Start the Development Server
